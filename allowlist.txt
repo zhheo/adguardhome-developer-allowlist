@@ -1,3 +1,5 @@
+!Title: adguardhome-developer-allowlist
+!Homepage: https://zhheo.com/
 @@||zhheo.com^
 @@||tongji.baidu.com^
 @@||console.cloud.tencent.com^
