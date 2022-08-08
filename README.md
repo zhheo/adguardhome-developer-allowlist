@@ -8,3 +8,12 @@
 
 在adguardhome中的「过滤器」->「DNS允许列表」添加下面地址
 
+```
+https://raw.githubusercontent.com/zhheo/adguardhome-developer-allowlist/main/allowlist.txt
+```
+
+如果无法读取，可以使用能够访问的cdn获取列表。
+
+```
+https://cdn1.tianli0.top/gh/zhheo/adguardhome-developer-allowlist@main/allowlist.txt
+```
