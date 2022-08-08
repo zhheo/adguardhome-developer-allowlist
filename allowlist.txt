@@ -2,7 +2,14 @@
 !Homepage: https://zhheo.com/
 @@||zhheo.com^
 @@||tongji.baidu.com^
-@@||console.cloud.tencent.com^
 @@||developer.huawei.com^
 @@||mp.weixin.qq.com^
 @@||51.la^
+@@||cloud.tencent.com^
+@@||cloud.oracle.com^
+@@||fillgreat.com^
+@@||su.baidu.com^
+@@||mail.qq.com^
+@@||pan.baidu.com^
+@@||dcloud.net.cn^
+@@||oracle.com^
