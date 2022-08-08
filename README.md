@@ -17,3 +17,7 @@ https://raw.githubusercontent.com/zhheo/adguardhome-developer-allowlist/main/all
 ```
 https://cdn1.tianli0.top/gh/zhheo/adguardhome-developer-allowlist@main/allowlist.txt
 ```
+
+## 适用范围
+
+仅适用于中国大陆
